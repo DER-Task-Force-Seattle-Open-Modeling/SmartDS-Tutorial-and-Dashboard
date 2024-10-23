@@ -13,7 +13,10 @@
 - Holoviz Tools
 -  
 
-
+<p align="center">
+<img src="image_0/SmartDS_dashboard_mockup.png" 
+     height="300" />
+</p>
 
 
 # SmartDS Tutorial
