@@ -26,7 +26,7 @@ Place the downloaded folders (urban-suburban, rural, industrial, GIS, full datas
 
 # Project Tools
 - **Opendssdirect** This project runs [OpenDSS](https://www.epri.com/pages/sa/opendss) simulation files using the [opendssdirect](https://dss-extensions.org/OpenDSSDirect.py/index.html) Python interface. An extensive knowledge of OpenDSS and electrical engineering is not required.
-- **Holoviz** Both the tutorial and dashboard use [Holoviz tools](https://holoviz.org/index.html) extensively. HvPlot, Holoviews, Geoviews and Panel are the core visualization tools.
+- **Holoviz** Both the tutorial and dashboard use [Holoviz tools](https://holoviz.org/index.html) extensively. HvPlot, Holoviews, Geoviews and Panel are the core visualization tools that build primarily on pandas and geopandas.
 
 # SmartDS Tutorial
 The goals for the SmartDS tutorial are to:
